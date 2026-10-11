@@ -227,3 +227,6 @@ This project is intended for educational and experimental use. Before publishing
 License
 
 No license has been selected yet. Add a license only when you have decided how others may use, modify, and distribute this project.
+## Application Preview
+
+![Aravot News Classifier](screenshots/aravot-news-classifier.png)
